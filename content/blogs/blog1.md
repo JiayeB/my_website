@@ -2,8 +2,8 @@
 categories:
 - ""
 - ""
-date: "2017-10-31T21:28:43-05:00"
-description: ""
+date: "2021-10-16"
+description: "Get to know me"
 draft: false
 image: pic10.jpg
 keywords: ""
