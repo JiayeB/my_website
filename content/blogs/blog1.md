@@ -22,7 +22,7 @@ Me at Shanghai Cafe Exhibition:
 ![cafeex](https://iknow-pic.cdn.bcebos.com/9213b07eca80653871a7488385dda144ac3482d5)
 
 Latte mix with osmanthus jam:
-![osmanthus](https://iknow-pic.cdn.bcebos.com/dbb44aed2e738bd4956d5ea1b38b87d6267ff9d6)
+![osmanthus](https://iknow-pic.cdn.bcebos.com/f636afc379310a55bc873264a54543a9832610fa)
 
 # Series
 
