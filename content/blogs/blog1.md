@@ -3,12 +3,34 @@ categories:
 - ""
 - ""
 date: "2021-10-16"
-description: "Get to know me"
+description: Hobbies - You only live once
 draft: false
-image: pic10.jpg
+image: pieceofcake.jpg
 keywords: ""
-slug: ipsum
-title: Ipsum
+slug: yolo
+title: Hobbies - You only live once
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.
+# Coffee
+
+Outside of work and study, I enjoy visiting cafes, tasting different flavors of SOE (single origin espresso) and even making coffee on my own.
+
+An interesting version of coffee:
+![interestingcoffee](https://iknow-pic.cdn.bcebos.com/b17eca8065380cd7ef534e7db344ad34588281d5)
+
+Me at Shanghai Cafe Exhibition:
+![cafeex](https://iknow-pic.cdn.bcebos.com/9213b07eca80653871a7488385dda144ac3482d5)
+
+Latte mix with osmanthus jam:
+![osmanthus](https://iknow-pic.cdn.bcebos.com/dbb44aed2e738bd4956d5ea1b38b87d6267ff9d6)
+
+# Series
+
+My Top 5 Serials:
+
+1.**Sherlock** (The reason why I love London!!!)\
+![sherlockposter](https://ichef.bbci.co.uk/images/ic/640x360/p074qljc.jpg)\
+2.**The IT Crowd** (The best sitcom ever!)\
+3.**Fleabag** (Really admire Phoebe Waller-Bridge as the creator, writer and star of the series)\
+4.**Modern Family** (Always comforts me when I was in bad mood and makes me feel warm)\
+5.**Criminal Minds** (One of my favorite types, reasoning, horror and criminal)

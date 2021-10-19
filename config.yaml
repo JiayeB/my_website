@@ -16,8 +16,8 @@ params:
     address:
       - city: London
         country: United Kingdom
-        street: Rossmore Street
-        title: Palgrave Gardens
+        street: Regent's Park
+        title: London Business School
     buttonClear: Clear
     buttonSend: Send message
     email:
@@ -25,7 +25,7 @@ params:
         title: Email
     enable: yes
     phone:
-      - phone: (044) 07419580001
+      - phone: (044) 07428580431
         title: Phone
   custom_css: []
   custom_js: []
@@ -35,7 +35,7 @@ params:
     text: Please visit [this page](/)
   favicon: favicon.ico
   footer:
-    copyright: Company Name
+    copyright: London Business School
     enable: yes
     quicklinks:
       - alt: HTML5 UP
@@ -88,23 +88,23 @@ params:
       - image: investment_banking.jpg
         subtitle: Short resume
         title: My CV
-        url: blogs/risk_return
+        url: blogs/my_cv
       - image: computer.jpg
         subtitle: R project showcase
         title: My R work
-        url: blogs/magna
-      - image: coffee.jpg
+        url: blogs/imdb
+      - image: yolo.jpg
         subtitle: YOLO
         title: Hobbies & Interests
-        url: blogs/ipsum
+        url: blogs/yolo
       - image: disney.jpg
         subtitle: Adventures and exporation
         title: My Gap year
-        url: blogs/ipsum
+        url: blogs/gap_year
       - image: next.jpg
-        subtitle: Where I wanna go
+        subtitle: To do list for future
         title: My future
-        url: blogs/ipsum
+        url: blogs/my_future
   two:
     buttonText: Get Started
     enable: yes
